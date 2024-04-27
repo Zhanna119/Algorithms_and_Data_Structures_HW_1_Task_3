@@ -1,0 +1,16 @@
+
+t	java:S116"SRename this field "MAX_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“şÊÍıÿÿÿÿ8®·…‚ò1
+C
+java:S1170"!Make this final field static too.(“şÊÍıÿÿÿÿ8¯·…‚ò1
+c
+java:S1659"ADeclare "rear" and all following declarations on a separate line.(‹ÏÁ•ùÿÿÿÿ8²·…‚ò1
+L	java:S106"+Replace this use of System.out by a logger.(÷³Íóùÿÿÿÿ8Â·…‚ò1
+L	java:S106("+Replace this use of System.out by a logger.(ÙÏòüÿÿÿÿÿ8Ç·…‚ò1
+L	java:S1068"+Replace this use of System.out by a logger.(Õ·±Âÿÿÿÿÿ8Î·…‚ò1
+G	java:S106G"+Replace this use of System.out by a logger.(¿ÇîÉ8Ñ·…‚ò1
+L	java:S106V"+Replace this use of System.out by a logger.(® ·ÿÿÿÿÿÿ8Ö·…‚ò1
+L	java:S106["+Replace this use of System.out by a logger.(Ã­—‡úÿÿÿÿ8Ù·…‚ò1
+G	java:S106]"+Replace this use of System.out by a logger.(º¼É°8Û·…‚ò1
+L	java:S106a"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8İ·…‚ò1
+F	java:S106g"+Replace this use of System.out by a logger.(É®R8à·…‚ò1
+G	java:S106}"+Replace this use of System.out by a logger.(÷è®Ç8æ·…‚ò1
